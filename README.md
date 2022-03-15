@@ -5,10 +5,10 @@ A user is expected to choose a random number between 0 and 9, click on the butto
 
 FOR EXAMPLE: 
 
-1. Game starts, User selects 5 and clicks the "Make a guess" Button.
-2. The computer picks a random(say 4) which is unknown to the user at this time.
-3. After the user clicks make a guess, the computer generates a seperate number(target number) say 2 then thereafter the two players(User and Computer) is compared to the target number, the player whose guess is closer wins.
-4. Meaning in this example, the computer wins as 4 is closer to 2 than 5. Therefore, the program alerts "computer wins" and increase the computer's score tally then the user has the option to play again and so on.
+-  Game starts, User selects 5 and clicks the "Make a guess" Button.
+-  The computer picks a random(say 4) which is unknown to the user at this time.
+- After the user clicks make a guess, the computer generates a seperate number(target number) say 2 then thereafter the two players(User and Computer) is compared to the target number, the player whose guess is closer wins.
+-  Meaning in this example, the computer wins as 4 is closer to 2 than 5. Therefore, the program alerts "computer wins" and increase the computer's score tally then the user has the option to play again and so on.
 
 #IMPLEMENTATION
 
